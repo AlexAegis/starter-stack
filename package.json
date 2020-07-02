@@ -65,7 +65,7 @@
 		"apollo-angular-link-http": "^1.10.0",
 		"apollo-angular-link-persisted": "^1.2.0",
 		"apollo-client": "^2.6.8",
-		"bcrypt": "^4.0.1",
+		"bcrypt": "^5.0.0",
 		"class-transformer": "^0.2.3",
 		"core-js": "^3.6.5",
 		"fastify-swagger": "^2.5.1",
